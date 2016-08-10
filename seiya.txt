@@ -1,2 +1,4 @@
 hi rona!
 -from seiya's computer
+
+Seiya is so good at git wow sugoi
